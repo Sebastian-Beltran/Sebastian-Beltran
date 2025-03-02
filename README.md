@@ -1,6 +1,6 @@
 # 👋 About Me:
 🔭 I’m currently working in a Fintech<br>💻 I’m love learning new techonologies<br>
-🧑‍💻 ![Portafolio](https://sebastian-beltran-portafolio.netlify.app/) 
+🧑‍💻 [Portafolio](https://sebastian-beltran-portafolio.netlify.app/) 
 
 
 ## 🌐 Socials:
